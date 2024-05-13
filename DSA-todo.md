@@ -6,7 +6,7 @@
 - [ ] Queue
   - [ ] Circular Queue
   - [ ] Dequeue (Phase - II)
-  - [ ] Priority Queue (Phase - II)
+  - [x] Priority Queue (Phase - II)
 - [ ] Linked List
   - [x] Singly-Linked List
   - [x] Doubly-Linked List
@@ -20,16 +20,16 @@
 - [ ] Red-Black Tree (Phase - II)
 - [ ] Sorting
   - [x] Bubble Sort
-  - [ ] Selection Sort
-  - [ ] Insertion Sort
+  - [x] Selection Sort
+  - [x] Insertion Sort
   - [ ] Quick Sort
   - [ ] Merge Sort
-  - [ ] Heap Sort
+  - [x] Heap Sort
   - [ ] Counting Sort (Phase - II)
   - [ ] Radix Sort (Phase - II)
 - [ ] Searching
   - [ ] Linear Search
-  - [ ] Binary search
+  - [x] Binary search
   - [ ] Hashing
     - [ ] Open Hashing
     - [ ] Linear Probing
